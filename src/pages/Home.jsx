@@ -1,4 +1,4 @@
-import Pic from '../assets/pic.jpg';
+import Pic from '../assets/pic2.jpg';
 import About from './About';
 import Contact from './Contact';
 import Footer from './Footer';
